@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 💻 Desenvolvedor full-stack **Java-Spring / Angular / React**
+- 💻 Desenvolvedor Full-Stack **Java-Spring / Angular / React**
 ---
 
 ### 🛠️ Tecnologias & Ferramentas

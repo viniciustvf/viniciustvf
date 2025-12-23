@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Vinicius Costa</h1>
+<h1 align="center">👋 Olá, me chamo Vinicius Costa</h1>
 
 <p align="center">
   Desenvolvedor Full-Stack | Java • Spring • Angular • React

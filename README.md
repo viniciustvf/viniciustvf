@@ -19,7 +19,7 @@ Tenho experiência desde o estágio até a atuação como trainee, trabalhando c
 - Bancos de dados relacionais (**PostgreSQL**)
 - Versionamento com **Git** e metodologias ágeis (**Scrum**)
 
-Sou movido por aprendizado contínuo, código limpo e soluções bem estruturadas, buscando evoluir tecnicamente e entregar valor real através do software.
+Movido pelo aprendizado contínuo, pelo código limpo e por soluções bem estruturadas que entreguem valor real através do software.
 ---
 
 ### 🛠️ Tecnologias & Ferramentas

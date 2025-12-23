@@ -52,7 +52,7 @@ Movido pelo aprendizado contínuo, pelo código limpo e por soluções bem estru
 
 ### 📫 Onde me encontrar
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/vin%C3%ADcius-fernandes-costa/)" target="_blank">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-fernandes-costa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

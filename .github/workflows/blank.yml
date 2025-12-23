@@ -17,6 +17,7 @@ jobs:
           github_user_name: viniciustvf
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3

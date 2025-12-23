@@ -7,7 +7,19 @@
 ---
 
 ### 🚀 Sobre mim
-- 💻 Desenvolvedor Full-Stack **Java-Spring / Angular / React**
+
+**Desenvolvedor Full-Stack** atuando profissionalmente com **Java e Spring no backend** e **Angular/React no frontend**.  
+Atualmente no **SENAI Soluções Digitais**, participando do desenvolvimento e manutenção de aplicações modernas e escaláveis para área da saúde e educação.
+
+Tenho experiência desde o estágio até a atuação como trainee, trabalhando com:
+- 🧩 **Arquitetura de microsserviços**
+- ☁️ Aplicações voltadas para **ambiente cloud**
+- 🔄 Integração entre backend e frontend
+- 🧪 Testes com **JUnit e Mockito**
+- 🗄️ Bancos de dados relacionais (**PostgreSQL**)
+- ⚙️ Versionamento com **Git** e metodologias ágeis (**Scrum**)
+
+Sou movido por aprendizado contínuo, código limpo e soluções bem estruturadas, buscando evoluir tecnicamente e entregar valor real através do software.
 ---
 
 ### 🛠️ Tecnologias & Ferramentas

@@ -41,7 +41,7 @@ Movido pelo aprendizado contínuo, pelo código limpo e por soluções bem estru
 
 ---
 
-### 🐍 Contribuições
+### Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciustvf/viniciustvf/output/github-snake-dark.svg?sanitize=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciustvf/viniciustvf/output/github-snake.svg?sanitize=true" />
@@ -50,7 +50,7 @@ Movido pelo aprendizado contínuo, pelo código limpo e por soluções bem estru
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 <p align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-fernandes-costa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

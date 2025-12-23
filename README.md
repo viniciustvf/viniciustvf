@@ -12,12 +12,12 @@
 Atualmente no **SENAI Soluções Digitais**, participando do desenvolvimento e manutenção de aplicações modernas e escaláveis para área da saúde e educação.
 
 Tenho experiência desde o estágio até a atuação como trainee, trabalhando com:
-- 🧩 **Arquitetura de microsserviços**
-- ☁️ Aplicações voltadas para **ambiente cloud**
-- 🔄 Integração entre backend e frontend
-- 🧪 Testes com **JUnit e Mockito**
-- 🗄️ Bancos de dados relacionais (**PostgreSQL**)
-- ⚙️ Versionamento com **Git** e metodologias ágeis (**Scrum**)
+- **Arquitetura de microsserviços**
+- Aplicações voltadas para **ambiente cloud**
+- Integração entre backend e frontend
+- Testes com **JUnit e Mockito**
+- Bancos de dados relacionais (**PostgreSQL**)
+- Versionamento com **Git** e metodologias ágeis (**Scrum**)
 
 Sou movido por aprendizado contínuo, código limpo e soluções bem estruturadas, buscando evoluir tecnicamente e entregar valor real através do software.
 ---
@@ -43,7 +43,7 @@ Sou movido por aprendizado contínuo, código limpo e soluções bem estruturada
 
 ### 🐍 Contribuições
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viniciustvf/viniciustvf/output/github-contribution-grid-snake-dark.svg?sanitize=true" />
+<img src="https://raw.githubusercontent.com/viniciustvf/viniciustvf/output/github-contribution-grid-snake.svg?sanitize=true" />
 </p>
 
 ---

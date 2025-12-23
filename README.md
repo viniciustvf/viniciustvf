@@ -43,7 +43,7 @@ Sou movido por aprendizado contínuo, código limpo e soluções bem estruturada
 
 ### 🐍 Contribuições
 <p align="center">
-<img src="https://raw.githubusercontent.com/viniciustvf/viniciustvf/output/github-contribution-grid-snake.svg?sanitize=true" />
+<img src="https://raw.githubusercontent.com/viniciustvf/viniciustvf/output/github-contribution-grid-snake.gif" />
 </p>
 
 ---

@@ -1,17 +1,44 @@
-## Vinicius Costa
+<h1 align="center">👋 Olá, eu sou o Vinicius Costa</h1>
 
-<div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustvf&layout=compact&langs_count=7&theme=tokyonight"/>
-<div>
-	<br>
-	  <a target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
-	  <a target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
-	  <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
-	  <a target="_blank"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
-	</a>
-</div>
-<div> 
-	
-  ![Snake animation](https://github.com/viniciustvf/viniciustvf/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  Desenvolvedor Full-Stack | Java • Spring • Angular • React
+</p>
 
-</div>
+---
+
+### 🚀 Sobre mim
+- 💻 Desenvolvedor full-stack **Java-Spring / Angular / React**
+---
+
+### 🛠️ Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciustvf&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciustvf&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Contribuições
+<p align="center">
+  <img src="https://github.com/viniciustvf/viniciustvf/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+### 📫 Onde me encontrar
+<p align="center">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/vin%C3%ADcius-fernandes-costa/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
